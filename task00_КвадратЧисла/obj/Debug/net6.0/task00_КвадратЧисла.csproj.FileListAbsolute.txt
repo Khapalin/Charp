@@ -1,0 +1,15 @@
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/obj/Debug/net6.0/task00_КвадратЧисла.csproj.AssemblyReference.cache
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/obj/Debug/net6.0/task00_КвадратЧисла.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/obj/Debug/net6.0/task00_КвадратЧисла.AssemblyInfoInputs.cache
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/obj/Debug/net6.0/task00_КвадратЧисла.AssemblyInfo.cs
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/obj/Debug/net6.0/task00_КвадратЧисла.csproj.CoreCompileInputs.cache
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/bin/Debug/net6.0/task00_КвадратЧисла
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/bin/Debug/net6.0/task00_КвадратЧисла.deps.json
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/bin/Debug/net6.0/task00_КвадратЧисла.runtimeconfig.json
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/bin/Debug/net6.0/task00_КвадратЧисла.dll
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/bin/Debug/net6.0/task00_КвадратЧисла.pdb
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/obj/Debug/net6.0/task00_КвадратЧисла.dll
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/obj/Debug/net6.0/refint/task00_КвадратЧисла.dll
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/obj/Debug/net6.0/task00_КвадратЧисла.pdb
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/obj/Debug/net6.0/task00_КвадратЧисла.genruntimeconfig.cache
+/Users/eric/Desktop/Git/C#/task00_КвадратЧисла/obj/Debug/net6.0/ref/task00_КвадратЧисла.dll

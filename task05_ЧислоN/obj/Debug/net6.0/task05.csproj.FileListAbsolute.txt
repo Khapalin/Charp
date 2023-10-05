@@ -1,0 +1,15 @@
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/bin/Debug/net6.0/task05
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/bin/Debug/net6.0/task05.deps.json
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/bin/Debug/net6.0/task05.runtimeconfig.json
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/bin/Debug/net6.0/task05.dll
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/bin/Debug/net6.0/task05.pdb
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/obj/Debug/net6.0/task05.csproj.AssemblyReference.cache
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/obj/Debug/net6.0/task05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/obj/Debug/net6.0/task05.AssemblyInfoInputs.cache
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/obj/Debug/net6.0/task05.AssemblyInfo.cs
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/obj/Debug/net6.0/task05.csproj.CoreCompileInputs.cache
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/obj/Debug/net6.0/task05.dll
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/obj/Debug/net6.0/refint/task05.dll
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/obj/Debug/net6.0/task05.pdb
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/obj/Debug/net6.0/task05.genruntimeconfig.cache
+/Users/eric/Desktop/Git/C#/task05_ЧислоN/obj/Debug/net6.0/ref/task05.dll

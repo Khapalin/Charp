@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task00_КвадратЧисла/1.0.0": {
+        "runtime": {
+          "task00_КвадратЧисла.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task00_КвадратЧисла/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
