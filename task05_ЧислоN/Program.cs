@@ -6,7 +6,8 @@
 
 System.Console.WriteLine("Введите число: ");
 
-int numberN = Convert.ToInt32(Console.ReadLine());
-for(int i = -numberN; i <= numberN; i++)
+int N = Convert.ToInt32(Console.ReadLine());
+
+for(int i = -N; i <= N; i++)
 
 System.Console.Write(i + " ");
