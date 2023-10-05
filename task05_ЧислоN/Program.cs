@@ -9,4 +9,4 @@ System.Console.WriteLine("Введите число: ");
 int numberN = Convert.ToInt32(Console.ReadLine());
 for(int i = -numberN; i <= numberN; i++)
 
-System.Console.Write($"{i} , ");
+System.Console.Write(i + " ");
