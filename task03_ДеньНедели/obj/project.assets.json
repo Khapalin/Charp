@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eric/Desktop/Git/C#/task02_ДеньНедели/task03.csproj",
+      "projectUniqueName": "/Users/eric/Desktop/Git/C#/task03_ДеньНедели/task03.csproj",
       "projectName": "task03",
-      "projectPath": "/Users/eric/Desktop/Git/C#/task02_ДеньНедели/task03.csproj",
+      "projectPath": "/Users/eric/Desktop/Git/C#/task03_ДеньНедели/task03.csproj",
       "packagesPath": "/Users/eric/.nuget/packages/",
-      "outputPath": "/Users/eric/Desktop/Git/C#/task02_ДеньНедели/obj/",
+      "outputPath": "/Users/eric/Desktop/Git/C#/task03_ДеньНедели/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/eric/.nuget/NuGet/NuGet.Config"
