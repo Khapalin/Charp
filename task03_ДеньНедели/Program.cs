@@ -36,3 +36,4 @@ else if (dayNumber == 7)
     Console.WriteLine("Воскресенье");
 }
 else Console.WriteLine("Ошибка");
+
