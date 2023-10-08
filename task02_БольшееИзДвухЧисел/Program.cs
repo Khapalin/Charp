@@ -16,7 +16,7 @@ if (number1 > number2)
 }
 else if (number2 > number1)
 {
-    System.Console.WriteLine(number2 + " больше чем " + number1);
+    System.Console.WriteLine($"{number2} больше чем {number1}");
 }
 else if (number1 == number2)
 {
