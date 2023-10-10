@@ -8,4 +8,4 @@ System.Console.WriteLine(number);
 int first = number / 100;
 int last = number % 10;
 
-System.Console.Write(first + last);
+System.Console.Write(first + "" + last);
