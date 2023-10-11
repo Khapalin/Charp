@@ -4,6 +4,8 @@
 16, 4 -> кратно
 */
 
+Console.Clear();
+
 System.Console.WriteLine("Введите 1 число: ");
 int number1 = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Введите 2 число: ");

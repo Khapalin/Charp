@@ -4,13 +4,15 @@
 161 -> да
 */
 
+Console.Clear();
+
 System.Console.WriteLine("Введите число: ");
 int number1 = Convert.ToInt32(Console.ReadLine());
-if(number1 % 7 == 0&& number1 % 23 == 0)
+if (number1 % 7 == 0 && number1 % 23 == 0)
 {
     System.Console.WriteLine("кратно");
 }
 else
 {
-   System.Console.WriteLine("некратно ");
+    System.Console.WriteLine("некратно ");
 }
