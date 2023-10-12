@@ -19,5 +19,5 @@ if (dayNumber == 6 || dayNumber == 7)
 }
 if (dayNumber < 1 || dayNumber > 7)
 {
-    System.Console.WriteLine("Такого дня недели не сущесьвует!");
+    System.Console.WriteLine("Такого дня недели не существует!");
 }
