@@ -10,6 +10,8 @@ int result2 = number2 / number1;
 System.Console.WriteLine(result2);
 */
 
+Console.Clear();
+
 Console.WriteLine("Введите число 1: ");
 int number1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число 2: ");
