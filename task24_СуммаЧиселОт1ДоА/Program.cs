@@ -16,7 +16,7 @@ for (int i = 1; i <= a; i++)
 System.Console.WriteLine(sum);
 */
 
-System.Console.WriteLine("Введите число a: ");
+System.Console.WriteLine("Введите число: ");
 
 int userA = Convert.ToInt32(Console.ReadLine());
 int Summer(int a)

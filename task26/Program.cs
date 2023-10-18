@@ -6,17 +6,17 @@
 
 Console.Clear();
 
-System.Console.WriteLine("Введите число ");
-int userA = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("Введите число: ");
+int userNum = Convert.ToInt32(Console.ReadLine());
 
 int Number(int a)
 {
     int num = 0;
-    for (int i = userA; i > 0; i= i/10)
+    for (int i = userNum; i > 0; i= i/10)
     {
         num =  num + 1;
     }
     return num;
 }
-int userResalt = Number(userA);
+int userResalt = Number(userNum);
 System.Console.WriteLine(userResalt);
