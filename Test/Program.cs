@@ -1,12 +1,12 @@
-﻿Console.Write("Введите самое прекрасное имя в мире: ");
+﻿Console.Clear();
+
+Console.Write("Введите самое прекрасное имя в мире: ");
 string username = Console.ReadLine();
 
-if(username.ToLower() == "Наташенька")
+if(username.ToLower() == "серега")
 {
-    Console.WriteLine("Ура! Это же Наташенька!");
+    Console.WriteLine("Правильно! Серега это четкое имя!");
 }
 else
-{
-    Console.Write("Конечно, ");
-    Console.WriteLine(username);
-}
+    Console.Write(username + "хуёвое имя... ");
+    
