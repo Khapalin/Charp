@@ -4,6 +4,7 @@
 */
 
 Console.Clear();
+/*
 int[] GetRandArray(int start, int end, int size)
 {
     int[] array = new int[size];
@@ -49,8 +50,8 @@ PrintArray(userArray);
 System.Console.WriteLine("Какое число ищем?");
 int userNum = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine(findNum(userArray,userNum));
+*/
 
-/* 
 int Prompt(string message)
 {
     System.Console.Write(message);
@@ -90,8 +91,8 @@ void PrintArray(int[] arrayOne, bool a)
             System.Console.Write(", ");
     }
     System.Console.Write("] -> ");
-    if (a == true) System.Console.WriteLine("Да");
-    else System.Console.WriteLine("Нет");
+    if (a == true) System.Console.WriteLine("Да, такое число присутствует.");
+    else System.Console.WriteLine("Нет, такого числа нет.");
 }
 
 int length = Prompt("Длина массива: ");
@@ -100,4 +101,3 @@ int max = Prompt("Конечное значене для дапазона слу
 int num = Prompt("Проверка числа в массиве: ");
 int[] array = GenerateArray(length, min, max);
 PrintArray(array, findNum(array, num));
-*/
