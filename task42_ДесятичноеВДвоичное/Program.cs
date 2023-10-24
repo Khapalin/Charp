@@ -6,13 +6,13 @@
 
 Console.Clear();
 
+/*
 int UserInOut(string message)
 {
     System.Console.Write(message);
     int result = Convert.ToInt32(Console.ReadLine());
     return result;
 }
-
 
 int Conv(int number)
 {
@@ -25,6 +25,9 @@ int Conv(int number)
     }
     return result;
 }
+int uNum = UserInOut("Введите число: ");
+System.Console.WriteLine(Conv(uNum));
+*/
 
 /*
 string Conv(int number)
@@ -43,14 +46,12 @@ int uNum = UserInOut("Введите число: ");
 System.Console.WriteLine(Conv(uNum));
 */
 
-int uNum = UserInOut("Введите число: ");
-System.Console.WriteLine(Conv(uNum));
 
-/*
+
 Console.WriteLine("Введите число");
 int number = Convert.ToInt32(Console.ReadLine());
 
-int ToBinary( int number)
+int ToBinary(int number)
 {
     int result= 0;
     int ten = 1;
@@ -63,4 +64,3 @@ return result;
 }
 int Number = ToBinary(number);
 Console.Write(Number);
-*/

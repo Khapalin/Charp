@@ -4,13 +4,14 @@
 сумма отрицательных равна -20.
 */
 
+/*
 Console.Clear();
 int[] GetRandArray(int size)
 {
     int[] array = new int[size];
     for (int i = 0; i < size; i++)
     {
-        array[i]= new Random().Next(-9, 10);
+        array[i] = new Random().Next(-9, 10);
     }
     return array;
 }
@@ -19,37 +20,40 @@ void PrintArray(int[] arr)
     System.Console.Write("[");
     for (int i = 0; i < arr.Length; i++)
     {
-        System.Console.Write(arr[i]);
+        System.Console.Write(arr[i] + " "); // это чтоб убрать строки 23-28
+        /*System.Console.Write(arr[i]);
         if(i < arr.Length -1)
         System.Console.Write(", ");
     }
     System.Console.Write("]");
     System.Console.WriteLine();
-}
-
-void Sum(int[] array)
-{
-    int sum1 = 0;
-    int sum2 = 0;
-    for (int i = 0; i < array.Length; i++)
-    {
-        if(array[i] > 0)
-        sum1 = sum1 + array[i];
-        else
-        sum2 = sum2 + array[i];
+    
     }
-    System.Console.WriteLine(sum1); 
-    System.Console.WriteLine(sum2);
+
+    void Sum(int[] array)
+    {
+        int sum1 = 0;
+        int sum2 = 0;
+        for (int i = 0; i < array.Length; i++)
+        {
+            if (array[i] > 0)
+                sum1 = sum1 + array[i];
+            else
+                sum2 = sum2 + array[i];
+        }
+        System.Console.WriteLine(sum1);
+        System.Console.WriteLine(sum2);
+    }
+    System.Console.WriteLine("Введите размер массива: ");
+    int userSize = Convert.ToInt32(Console.ReadLine());
 }
-System.Console.WriteLine("Введите размер массива: ");
-int userSize = Convert.ToInt32(Console.ReadLine());
 
-int[] userArray = GetRandArray(userSize);
-PrintArray(userArray);
-Sum(userArray);
+    int[] userArray = GetRandArray(userSize);
+    PrintArray(userArray);
+    Sum(userArray);
 
 
-/*
+*/
 Console.Clear();
 
 int[] GetRandomArray(int start, int end, int lenght)
@@ -114,4 +118,3 @@ int posArraySum = SumPositiveNum(userArray);
 int negArraySum = SumNegativeNum(userArray);
 
 System.Console.WriteLine($"Sum of positive numbers {posArraySum}, sum of negative numbers {negArraySum}.");
-*/
